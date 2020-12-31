@@ -125,6 +125,7 @@ header p {
 @media screen and (max-width: 375px) {
     .cards {
         flex-direction: column;
+        margin: auto 20px;
     }
 
     h3, h4 {
@@ -139,5 +140,6 @@ header p {
 @media screen and (max-width: 775px) {
     .cards {
         flex-direction: column;
+        margin: auto 20px;
     }
 }
