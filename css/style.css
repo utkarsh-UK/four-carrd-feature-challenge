@@ -88,10 +88,13 @@ header p {
     margin: 0 3px;
     padding: 20px;
     position: relative;
+    min-height: 180px;
 }
 
 .card-content img {
     margin-top: 20px;
+    position: absolute;
+    right: 30px;
 }
 
 .cyan-color {
